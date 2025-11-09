@@ -8,8 +8,7 @@
 ## Section and Mentor
 
 **Section:** B06
-**Mentor:** Dr Alex Cloninger
-**Mentor:** Dr Rayan Saab
+**Mentor:** Dr Alex Cloninger and Dr Rayan Saab
 
 ## Assignment Responses
 
