@@ -1,5 +1,3 @@
-# DSC180A Methodology Assignment
-
 ## Student Information
 
 **Name:** Quy-Dzu Do
